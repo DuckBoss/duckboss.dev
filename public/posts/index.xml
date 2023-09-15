@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on duckboss.dev - Jason Jerome</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on duckboss.dev - Jason Jerome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 - Jason Jerome</copyright>
+    <lastBuildDate>Thu, 14 Sep 2023 23:28:21 -0400</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 14 Sep 2023 23:28:21 -0400</pubDate>
+      
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>#1 - Hello, World! Hello, World!</description>
+      <content>&lt;h2 id=&#34;1---hello-world&#34;&gt;#1 - Hello, World!&lt;/h2&gt;
+&lt;p&gt;Hello, World!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 14 Sep 2023 23:00:21 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>//localhost:1313/blog/hello-world/</link>
+      <link>//localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 14 Sep 2023 23:28:21 -0400</pubDate>
       
-      <guid>//localhost:1313/blog/hello-world/</guid>
+      <guid>//localhost:1313/posts/hello-world/</guid>
       <description>#1 - Hello, World! Hello, World!</description>
       <content>&lt;h2 id=&#34;1---hello-world&#34;&gt;#1 - Hello, World!&lt;/h2&gt;
 &lt;p&gt;Hello, World!&lt;/p&gt;
