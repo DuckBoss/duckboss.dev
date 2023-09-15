@@ -4,9 +4,9 @@ theme = "terminal"
 paginate = 5
 
 [params]
-  # dir name of your main content (default is `content/posts`).
+  # dir name of your main content (default is `content/main`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "main"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
