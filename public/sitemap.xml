@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/posts/hello-world/</loc>
-    <lastmod>2023-09-14T23:28:21-04:00</lastmod>
+    <loc>//localhost:1313/blog/</loc>
+    <lastmod>2023-09-15T00:58:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/blog/2023/09/post-2/</loc>
+    <lastmod>2023-09-15T00:09:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/blog/2023/09/post-1/</loc>
     <lastmod>2023-09-14T23:28:21-04:00</lastmod>
   </url>
   

@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 - Jason Jerome</copyright>
-    <lastBuildDate>Thu, 14 Sep 2023 23:28:21 -0400</lastBuildDate><atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:58:28 -0400</lastBuildDate><atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>//localhost:1313/blog/hello-world/</link>
+      <title>Hello again, World</title>
+      <link>//localhost:1313/blog/2023/09/post-2/</link>
+      <pubDate>Fri, 15 Sep 2023 00:09:29 -0400</pubDate>
+      
+      <guid>//localhost:1313/blog/2023/09/post-2/</guid>
+      <description>&lt;h2 id=&#34;hello-test-world&#34;&gt;Hello test, World!&lt;/h2&gt;
+&lt;p&gt;Hello again, World!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;hello-test-world&#34;&gt;Hello test, World!&lt;/h2&gt;
+&lt;p&gt;Hello again, World!&lt;/p&gt;
+&lt;p&gt;Test:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Hello, World</title>
+      <link>//localhost:1313/blog/2023/09/post-1/</link>
       <pubDate>Thu, 14 Sep 2023 23:28:21 -0400</pubDate>
       
-      <guid>//localhost:1313/blog/hello-world/</guid>
-      <description>#1 - Hello, World! Hello, World!</description>
-      <content>&lt;h2 id=&#34;1---hello-world&#34;&gt;#1 - Hello, World!&lt;/h2&gt;
+      <guid>//localhost:1313/blog/2023/09/post-1/</guid>
+      <description>Hello, World! Hello, World!</description>
+      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h2&gt;
 &lt;p&gt;Hello, World!&lt;/p&gt;
 </content>
     </item>

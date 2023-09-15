@@ -3,16 +3,23 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[permalinks]
+  blog = "/:section/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
-  # dir name of your main content (default is `content/main`).
+  # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "main"
+  # contentTypeName = "main"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
@@ -30,7 +37,7 @@ paginate = 5
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = true
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
+  updatedDatePrefix = "Updated"
 
   # set all headings to their default size (depending on browser settings)
   # it's set to `true` by default
@@ -62,19 +69,28 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
+     [[languages.en.menu.main]]
+        identifier = "home"
+        name = "home"
+        weight = 1
+        url = "/"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "about"
+        weight = 2
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "development blog"
-        url = "/posts"
+        weight = 3
+        url = "/blog"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "projects"
+        weight = 4
         url = "/projects"
       [[languages.en.menu.main]]
         identifier = "resume"
         name = "résumé"
+        weight = 5
         url = "/resume"
