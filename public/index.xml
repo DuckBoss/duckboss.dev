@@ -1,22 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>duckboss.dev - Jason Jerome</title>
+    <title>Welcome on duckboss.dev - Jason Jerome</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on duckboss.dev - Jason Jerome</description>
+    <description>Recent content in Welcome on duckboss.dev - Jason Jerome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2023 - Jason Jerome</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 - Jason Jerome</copyright>
+    <lastBuildDate>Thu, 14 Sep 2023 23:00:21 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>//localhost:1313/</link>
-      <pubDate>Thu, 14 Sep 2023 23:00:21 -0400</pubDate>
+      <title>Hello World</title>
+      <link>//localhost:1313/blog/hello-world/</link>
+      <pubDate>Thu, 14 Sep 2023 23:28:21 -0400</pubDate>
       
-      <guid>//localhost:1313/</guid>
-      <description>Hello, World! Hi! Welcome to my personal website.</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h2&gt;
-&lt;p&gt;Hi! Welcome to my personal website.&lt;/p&gt;
+      <guid>//localhost:1313/blog/hello-world/</guid>
+      <description>#1 - Hello, World! Hello, World!</description>
+      <content>&lt;h2 id=&#34;1---hello-world&#34;&gt;#1 - Hello, World!&lt;/h2&gt;
+&lt;p&gt;Hello, World!&lt;/p&gt;
 </content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Thu, 14 Sep 2023 22:59:09 -0400</pubDate>
+      
+      <guid>//localhost:1313/projects/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Thu, 14 Sep 2023 22:59:03 -0400</pubDate>
+      
+      <guid>//localhost:1313/resume/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 14 Sep 2023 22:58:57 -0400</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      <content></content>
     </item>
     
   </channel>
