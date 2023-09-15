@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>duckboss.dev - Jason Jerome</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on duckboss.dev - Jason Jerome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 - Jason Jerome</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main</title>
+      <link>//localhost:1313/main/</link>
+      <pubDate>Thu, 14 Sep 2023 23:00:21 -0400</pubDate>
+      
+      <guid>//localhost:1313/main/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Thu, 14 Sep 2023 22:59:09 -0400</pubDate>
+      
+      <guid>//localhost:1313/projects/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Thu, 14 Sep 2023 22:59:03 -0400</pubDate>
+      
+      <guid>//localhost:1313/resume/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 14 Sep 2023 22:58:57 -0400</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
